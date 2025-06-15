@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "8fa1b49b69afc42c",
+    "type": "split",
+    "children": [
+      {
+        "id": "82920234a2164c07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bb5135a05b91bde",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81ab8317245e3732",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1ed2c39a43857da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "111186c90c060cd9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0acffcda1be20005",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eb9c8fa90ede3e7f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a6aad2d7dfb32935",
+    "type": "split",
+    "children": [
+      {
+        "id": "776da737ee9a5c78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24684174a946d4e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0762dc9148e27011",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a6f5f5819aceaf58",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4f2dcf1d06ee16a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9bb5135a05b91bde",
+  "lastOpenFiles": [
+    "index.md",
+    "README.md",
+    "Original Raspberry Pi Zero 2 W Guide.md",
+    "Images/aluminium-heat-sink.jpg",
+    "Images/907cd3e4-img_jumper_wire_male_to_male.jpg",
+    "Images/51Z9vr9xWnL._AC_UF1000,1000_QL80_.jpg",
+    "Images/shopping.webp",
+    "Images/Screenshot 2025-06-15 172656.png",
+    "Images/Screenshot 2025-06-15 012228.png",
+    "Images/Screenshot 2025-06-14 225816.png",
+    "Images/Screenshot 2025-06-14 225715.png",
+    "Images/Screenshot 2025-06-14 193548.png",
+    "Images/Screenshot 2025-06-14 193405.png",
+    "Images",
+    "New folder"
+  ]
+}
